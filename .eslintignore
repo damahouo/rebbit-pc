@@ -1,0 +1,4 @@
+# 配置eslint不校验这两个目录的文件
+
+/dist
+/src/vender
